@@ -1,0 +1,1 @@
+Uma matriz em grafo é uma representação de um grafo usando uma matriz bidimensional. Em uma matriz em grafo, as linhas e colunas representam os vértices do grafo, e os valores na matriz indicam se há uma aresta entre os vértices correspondentes.
